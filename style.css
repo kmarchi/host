@@ -3483,7 +3483,7 @@ color: #fff;
     .navbar .navbar-collapse {
         max-height: 360px;
         overflow: auto;
-        background: #272727;
+        background: #f8f9fa;
         text-align: left;
         padding: 15px 30px 30px 15px;
         margin-top: 0px;
