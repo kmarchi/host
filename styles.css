@@ -3482,7 +3482,7 @@ color: #fff;
         max-height: 420px;
         background: #f8f9fa;
         text-align: left;
-        padding: 0;
+        padding: 10px 0px 0px 50px;
         margin-top: 0px;
     }
     .navbar .nav-link {
