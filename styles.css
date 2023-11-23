@@ -3280,11 +3280,11 @@ color: #fff;
 }
 .progress-wrap::after {
     position: absolute;
-    font-family: 'Font Awesome 5 Free';
-    content: '\f062';
+    font-family: auto;
+    content: '^';
     text-align: center;
-    line-height: 40px;
-    font-size: 12px;
+    line-height: 50px;
+    font-size: 50px;
     font-weight: 400;
     color: #c5a47e;
     left: 0;
