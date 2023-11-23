@@ -513,7 +513,6 @@ hr {
     font-weight: 500;
     line-height: 1em;
     font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    text-transform: uppercase;
     color: #fff;
     position: relative;
     margin-bottom: 25px;
@@ -3197,7 +3196,6 @@ color: #fff;
 .main-footer .fothead h6 {
     color: #fff;
     font-size: 30px;
-    text-transform: uppercase;
     letter-spacing: 1px;
     margin-bottom: 15px;
     font-weight: 500;
