@@ -3282,7 +3282,7 @@ color: #fff;
     position: absolute;
     font-family: auto;
     content: '^';
-    text-align: center;
+    text-align: -webkit-center;
     line-height: 50px;
     font-size: 50px;
     font-weight: 400;
