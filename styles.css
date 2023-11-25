@@ -1637,9 +1637,14 @@ float: left;
 .sidebar .sidebar-widget .widget-inner {
     position: relative;
     display: block;
-    padding: 45px;
+    padding: 20px;
     background: #323232;
     border-radius: 0px;
+    border-top-left-radius: 0.375rem;
+    border-top-right-radius: 0.375rem;
+    border-bottom-left-radius: 0.375rem;
+    border-bottom-right-radius: 0.375rem;
+}
 }
 .sidebar-title {
     position: relative;
@@ -1701,7 +1706,6 @@ float: left;
     display: block;
     font-size: 18px;
     color: #999;
-    font-weight: 600;
     transition: all 0.3s ease;
     z-index: 1;
 }
