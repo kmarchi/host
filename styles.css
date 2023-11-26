@@ -507,7 +507,7 @@ hr {
 
 /* ======= Section style ======= */
 .section-padding {
-    padding: 120px 0;
+    padding: 70px 0;
 }
 .section-title {
     font-size: 60px;
@@ -2328,8 +2328,10 @@ line-height: 1em;
   bottom: -11px;
   max-width: 80%;
   background-color: #272727;
-  padding-top: 20px;
-  padding-right: 40px;
+    padding-top: 20px;
+    padding-right: 40px;
+    padding-bottom: 10px;
+    padding-left: 10px;
   -webkit-transform: translateY(100%);
   -ms-transform: translateY(100%);
   transform: translateY(100%);
